@@ -43,3 +43,7 @@ currently displayed.
 allows floating point numbers up to 3 places to be entered and operations to
 be carried out to the maximum number of decimal places entered for any one
 number.
+
+## Live preview
+
+You can check it out by clicking [here](https://assodepicche-calculator.netlify.app/).
